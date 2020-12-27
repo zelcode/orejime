@@ -1,0 +1,33 @@
+consentModal:
+  title: Informacije koje prikupljamo
+  description: >
+    Ovdje možete pogledati i prilagoditi koje informacije prikupljamo o vama.
+  privacyPolicy:
+    name: Privatnost podataka
+    text: >
+      Za više informacija pročitajte {privacyPolicy}.
+consentNotice: Bilo je promjena od vaše posljednje posjete, molimo ažurirajte vaš odabir.
+  description: >
+    Vaši osobni podaci će se prikupljati i obraditi u svrhu: {purposes}.
+  learnMore: Postavke
+accept: Prihvati
+acceptTitle: Prihvati kolačiće
+acceptAll: Prihvati sve
+save: Spremi
+saveData: Save my configuration on collected information
+decline: Odbij
+declineAll: Odbij sve
+close: Zatvori
+enabled: Uključeno
+disabled: Isključeno
+app:
+  optOut:
+    title: (opt-out)
+    description: Uključeno uvijek (ali može se isključiti)
+  required:
+    title: (uvijek uključeno)
+    description: Ovo je uvijek uključeno
+  purposes: Svrhe
+  purpose: Svrha
+poweredBy: Izradio Orejime
+newWindow: novi prozor
